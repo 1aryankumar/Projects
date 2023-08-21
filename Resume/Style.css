@@ -1,3 +1,7 @@
+.start{
+  width: auto;
+  border: 1px solid gold;
+}
 h1 {
   color: darkblue;
   font-size: 50px;
@@ -37,6 +41,8 @@ a {
 .edu{
     text-align: center;
     color: blue;
-    font-size: 20px;
+    font-size: 20px; 
+    width: 50%;
+    margin: auto;
     
 }
